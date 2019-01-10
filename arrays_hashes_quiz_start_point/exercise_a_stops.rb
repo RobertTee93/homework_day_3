@@ -2,6 +2,7 @@ stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Ha
 
 # 1. Add `"Edinburgh Waverley"` to the end of the array
 stops << "Edinburgh Waverley"
+# stops.push("Edinburgh")
 # 2. Add `"Glasgow Queen St"` to the start of the array
 stops.unshift("Glasgow Queen St")
 # 3. Add `"Polmont"` at the appropriate point (between `"Falkirk High"` and `"Linlithgow"`)
